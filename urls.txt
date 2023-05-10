@@ -1,0 +1,6 @@
+http://localhost:8080/
+http://localhost:8080/YoupiBanane/youpi.bla POST "salut=prout&name=me"
+http://localhost:8080/imgs/test.jpg
+http://localhost:8080/YoupiBanane/youpi.bla?lol=mdr&prout=pute
+http://localhost:8080/directoy/
+http://localhost:8080/info.php?some=data
